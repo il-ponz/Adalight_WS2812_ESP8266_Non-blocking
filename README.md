@@ -20,3 +20,5 @@ The problem may not appear always. I tested here one WS2812 and one WS2813 strip
 
 Highly integrated solution using SMD diod on WS2813 strip  
 ![SMD diode usage](SMD_diode_example.jpg)
+
+# platformio ok
