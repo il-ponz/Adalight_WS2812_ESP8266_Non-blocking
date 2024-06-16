@@ -3,7 +3,7 @@
 #include <NeoPixelBus.h>
 #include <chrono>
 
-#define PixelCount 110      // number of leds
+#define PixelCount 200      // number of leds
 #define PixelPin 2          // must be GPIO2 (D4) for ESP8266 Uart Method. It's here just as note.
 #define SMOOTH 0            // number of interpolations for smoothing, one interpolation takes around (PixelCount * 30us) + 700us, 0 = no smoothing
 #define PWROFTIMEOUT 1     // Number of seconds after which LEDs turn "off" (black) if there are no new data on serial line
